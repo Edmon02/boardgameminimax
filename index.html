@@ -1,52 +1,30 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>Tica Tac Toe</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
+  <title>Tic Tac Toe with AI</title>
+  <link rel="stylesheet" href="/styles.css">
 </head>
-
-<body onload="createTable()">
-  <div class="itemType">
-    <select class="gameType" id="gameType" onchange="update()">
-      <option class="opt" value="Simple" selected>Easy</option>
-      <option class="opt" value="Difficult">Hard</option>
-    </select>
-  </div>
-  <div class="match">
-    <div class="playing">
-      <button class="Xgame" >
-        <div class="gamer">X</div>
-        <div class="xGamerNumber">-</div>
-      </button>
-      <button class="Ogame" onclick="ogamer()" >
-        <div class="gamer">O</div>
-        <div class="oGamerNumber">-</div>
-      </button>
+<body>
+ <div class="game-container">
+  <h1>Tic Tac Toe</h1>
+  
+  <div class="player-selection">
+    <h3>Choose your side:</h3>
+    <div>
+      <input type="radio" id="player-x" name="player" value="X" checked>
+      <label for="player-x">Play as X (first)</label>
     </div>
-    <div class="table">
-      <div class="box" data-value="0"></div>
-      <div class="box" data-value="1"></div>
-      <div class="box" data-value="2"></div>
-      <div class="box" data-value="3"></div>
-      <div class="box" data-value="4"></div>
-      <div class="box" data-value="5"></div>
-      <div class="box" data-value="6"></div>
-      <div class="box" data-value="7"></div>
-      <div class="box" data-value="8"></div>
+    <div>
+      <input type="radio" id="player-o" name="player" value="O">
+      <label for="player-o">Play as O (second)</label>
     </div>
-  </div>
-  <div class="winner-massage">
-    <div style="display: flex;">
-      <span class="gamer-winner"></span>
-      <span class="gamer-draw"></span>
-    </div>
-    <span class="gamer-text"></span>
+    <button id="start-btn">Start Game</button>
   </div>
   
-<script src="script.js" theme="blue" defer></script> 
+  <h2 class="status"></h2>
+  <div class="game-board"></div>
+  <button class="restart-btn">Restart Game</button>
+</div>
+  <script type="module" src="/src/index.js"></script>
 </body>
-
 </html>
