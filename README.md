@@ -52,4 +52,4 @@ Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) and check the [issue 
 For questions, feedback, or issues:
 - File an issue on the [GitHub issue tracker](https://github.com/Edmon02/boardgameminimax/issues).
 - Join the conversation in our [GitHub Discussions](https://github.com/Edmon02/boardgameminimax/discussions).
-- Email: your-email@example.com.
+- Email: edmon.sahakyan@gmail.com
