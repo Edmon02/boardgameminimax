@@ -25,7 +25,7 @@ Project maintainers are responsible for clarifying the standards of acceptable b
 This Code of Conduct applies to all project spaces, including the GitHub repository, issue tracker, discussions, and any related communication channels. It also applies when an individual represents the project in public spaces, such as conferences or social media.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at your-email@example.com or through GitHub’s reporting tools. All complaints will be reviewed and investigated promptly and fairly. The project team is obligated to maintain confidentiality regarding the reporter of an incident.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at edmon.sahakyan@gmail.com or through GitHub’s reporting tools. All complaints will be reviewed and investigated promptly and fairly. The project team is obligated to maintain confidentiality regarding the reporter of an incident.
 
 Corrective actions may include:
 - A warning to the individual to cease the behavior.
@@ -36,4 +36,4 @@ Corrective actions may include:
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
 
 ## Questions?
-For questions or clarification, reach out to your-email@example.com or join our [GitHub Discussions](https://github.com/Edmon02/boardgameminimax/discussions). Let’s build a respectful and collaborative community together!
+For questions or clarification, reach out to edmon.sahakyan@gmail.com or join our [GitHub Discussions](https://github.com/Edmon02/boardgameminimax/discussions). Let’s build a respectful and collaborative community together!
