@@ -70,6 +70,6 @@ All contributors are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT
 ## Getting Help
 - Join the [GitHub Discussions](https://github.com/Edmon02/boardgameminimax/discussions) for questions or ideas.
 - Reach out via the [issue tracker](https://github.com/Edmon02/boardgameminimax/issues) for specific problems.
-- Email: your-email@example.com.
+- Email: edmon.sahakyan@gmail.com.
 
 Thank you for helping make BoardGameMinimax better!
